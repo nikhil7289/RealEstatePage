@@ -1,0 +1,31 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+  .header {
+    background-color: #9ac8f5;
+    padding: 20px 0;
+    text-align: center;
+  }
+  .featured-properties {
+    padding: 50px 0;
+    background-color: #f0f0f0;
+    text-align: center;
+  }
+  .about-us {
+    padding: 50px 0;
+    text-align: center;
+    background-color: aquamarine;
+  }
+  .contact-us {
+    padding: 0px 350px;
+    background-color: #d4e5f7;
+    text-align: center;
+    height: px;
+
+  }
+  .footer {
+    background-color: #343a40;
+    color: #fff;
+    padding: 20px 0;
+    text-align: center;
+  }
